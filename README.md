@@ -5,9 +5,7 @@ A simple web application that evaluates AI-generated responses based on clarity,
 ---
 
 ## 🚀 Live Demo
-
-🔗 Run the project on Replit:
-(Add your Replit link here)
+👉 [Click here to try the app](https://response-grader--24e51a6790.replit.app/)
 
 ---
 
@@ -46,14 +44,11 @@ ai-response-grader/
 
 ## 📸 Screenshots
 
-### 🔹 Input Section
+### 🔹 Response Grader Interface
+![Response Grader](response-grader.png)
 
-![Input](screenshots/input.png)
-
-### 🔹 Evaluation Output
-
-![Output](screenshots/output.png)
-
+### 🔹 Dashboard View
+![Dashboard](Dashboard.png)
 ---
 
 ## 💻 How to Run
